@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zinft-dev/static/css/main.323a554d.chunk.css",
+    "main.js": "/zinft-dev/static/js/main.920b82aa.chunk.js",
+    "main.js.map": "/zinft-dev/static/js/main.920b82aa.chunk.js.map",
+    "runtime-main.js": "/zinft-dev/static/js/runtime-main.563d527f.js",
+    "runtime-main.js.map": "/zinft-dev/static/js/runtime-main.563d527f.js.map",
+    "static/js/2.9a7c3a86.chunk.js": "/zinft-dev/static/js/2.9a7c3a86.chunk.js",
+    "static/js/2.9a7c3a86.chunk.js.map": "/zinft-dev/static/js/2.9a7c3a86.chunk.js.map",
+    "index.html": "/zinft-dev/index.html",
+    "precache-manifest.949c44df2c8a6d926668d59ab4c0bbde.js": "/zinft-dev/precache-manifest.949c44df2c8a6d926668d59ab4c0bbde.js",
+    "service-worker.js": "/zinft-dev/service-worker.js",
+    "static/css/main.323a554d.chunk.css.map": "/zinft-dev/static/css/main.323a554d.chunk.css.map",
+    "static/media/twitter-logo.svg": "/zinft-dev/static/media/twitter-logo.8cea1391.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.563d527f.js",
+    "static/js/2.9a7c3a86.chunk.js",
+    "static/css/main.323a554d.chunk.css",
+    "static/js/main.920b82aa.chunk.js"
+  ]
+}
